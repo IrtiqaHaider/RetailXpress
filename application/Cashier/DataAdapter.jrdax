@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+  <name>SQL SERVER</name>
+  <classpath>C:\Users\irtiq\Downloads\sqljdbc_12.4.2.0_enu\sqljdbc_12.4\enu\jars\mssql-jdbc-12.4.2.jre11.jar</classpath>
+  <driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
+  <username></username>
+  <password></password>
+  <url>jdbc:sqlserver://localhost:1433;databaseName=RetailXpress;trustServerCertificate=true;integratedSecurity=true</url>
+  <database></database>
+  <savePassword>true</savePassword>
+  <serverAddress></serverAddress>
+</jdbcDataAdapter>
