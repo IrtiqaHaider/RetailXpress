@@ -63,9 +63,6 @@ RetailXpress is a comprehensive Point of Sale (POS) system designed to streamlin
 - Administrators have the flexibility to adapt system settings to evolving business needs.
 - Comprehensive user training programs ensure responsible and informed system usage.
 
-## License
-[MIT License](LICENSE)
-
 ## Screenshots
 
 ![RetailXpress 1st screen](Screenshots/2.png)
