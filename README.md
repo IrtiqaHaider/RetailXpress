@@ -1,5 +1,8 @@
 # RetailXpress - Your Path to Efficiency
 
+![RetailXpress 1st screen](Screenshots/1.png)
+
+
 ## Overview
 RetailXpress is a comprehensive Point of Sale (POS) system designed to streamline retail operations, enhance inventory management, and provide insightful sales reporting. With modules tailored for administrators, cashiers, and managers, RetailXpress offers a user-friendly interface and robust security measures, making it an ideal solution for modern retail environments.
 
@@ -47,7 +50,7 @@ RetailXpress is a comprehensive Point of Sale (POS) system designed to streamlin
 - **Inventory Management**: Real-time updates and stock level monitoring.
 - **Reporting**: Detailed reports on sales, inventory, and user activities.
 
-## Diagrams
+## Diagrams (Included in Report)
 - **Use Case Diagram**: Overview of system interactions.
 - **Domain Model**: Conceptual model of the system.
 - **System Sequence Diagram**: Order of operations for key processes.
@@ -62,4 +65,11 @@ RetailXpress is a comprehensive Point of Sale (POS) system designed to streamlin
 
 ## License
 [MIT License](LICENSE)
+
+## Screenshots
+
+![RetailXpress 1st screen](Screenshots/2.png)
+![RetailXpress 1st screen](Screenshots/3.png)
+![RetailXpress 1st screen](Screenshots/4.png)
+![RetailXpress 1st screen](Screenshots/5.png)
 
